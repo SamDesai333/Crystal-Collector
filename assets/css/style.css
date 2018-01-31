@@ -1,0 +1,49 @@
+body{
+    margin: auto;
+    padding: 0;
+    
+}
+
+.jumbotron{
+    text-align: center;
+    
+}
+#Instructions{
+    text-align: center;
+    background: rgb(248, 248, 248);
+    padding: 30px;
+    border-style: hidden;
+    border-radius: 8px 8px 8px 8px;
+    border-width: thin rgb(3, 3, 3);
+    border-bottom-width:thin;
+    border-top-width:thin;
+    border-left-width:thin;
+    border-right-width:thin;
+ 
+}
+#Random{
+    text-align: center;
+    background: rgb(248, 248, 248);
+    padding: 30px;
+    border-style: hidden;
+    border-radius: 8px 8px 8px 8px;
+    border-width: thin rgb(3, 3, 3);
+    border-bottom-width:thin;
+    border-top-width:thin;
+    border-left-width:thin;
+    border-right-width:thin;
+    margin-top:30px;
+}
+#Score{
+    text-align: center;
+    background: rgb(248, 248, 248);
+    padding: 30px;
+    border-style: hidden;
+    border-radius: 8px 8px 8px 8px;
+    border-width: thin rgb(3, 3, 3);
+    border-bottom-width:thin;
+    border-top-width:thin;
+    border-left-width:thin;
+    border-right-width:thin;
+    margin-top:30px;
+}
