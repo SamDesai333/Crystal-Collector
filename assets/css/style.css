@@ -10,7 +10,7 @@ body{
 }
 #Instructions{
     text-align: center;
-    background: rgb(248, 248, 248);
+    background: rgb(218, 217, 217);
     padding: 30px;
     border-style: hidden;
     border-radius: 8px 8px 8px 8px;
@@ -23,7 +23,7 @@ body{
 }
 #Random{
     text-align: center;
-    background: rgb(248, 248, 248);
+    background: rgb(218, 217, 217);
     padding: 30px;
     border-style: hidden;
     border-radius: 8px 8px 8px 8px;
@@ -36,8 +36,77 @@ body{
 }
 #Score{
     text-align: center;
-    background: rgb(248, 248, 248);
+    background: rgb(218, 217, 217);
     padding: 30px;
+    border-style: hidden;
+    border-radius: 8px 8px 8px 8px;
+    border-width: thin rgb(3, 3, 3);
+    border-bottom-width:thin;
+    border-top-width:thin;
+    border-left-width:thin;
+    border-right-width:thin;
+    margin-top:30px;
+}
+#correct{
+    text-align: center;
+    background: rgb(218, 217, 217);
+    padding: 30px;
+    border-style: hidden;
+    border-radius: 8px 8px 8px 8px;
+    border-width: thin rgb(3, 3, 3);
+    border-bottom-width:thin;
+    border-top-width:thin;
+    border-left-width:thin;
+    border-right-width:thin;
+    margin-top:30px;
+}
+#incorrect{
+    text-align: center;
+    background: rgb(218, 217, 217);
+    padding: 30px;
+    border-style: hidden;
+    border-radius: 8px 8px 8px 8px;
+    border-width: thin rgb(3, 3, 3);
+    border-bottom-width:thin;
+    border-top-width:thin;
+    border-left-width:thin;
+    border-right-width:thin;
+    margin-top:30px;
+}
+#Crystal1{
+    border-style: hidden;
+    border-radius: 8px 8px 8px 8px;
+    border-width: thin rgb(3, 3, 3);
+    border-bottom-width:thin;
+    border-top-width:thin;
+    border-left-width:thin;
+    border-right-width:thin;
+    margin-top:30px;
+}
+#Crystal2{
+    border-style: hidden;
+    border-radius: 8px 8px 8px 8px;
+    border-width: thin rgb(3, 3, 3);
+    border-bottom-width:thin;
+    border-top-width:thin;
+    border-left-width:thin;
+    border-right-width:thin;
+    margin-top:30px;
+}
+#Crystal3{
+   
+    padding: 30px;
+    border-style: hidden;
+    border-radius: 8px 8px 8px 8px;
+    border-width: thin rgb(3, 3, 3);
+    border-bottom-width:thin;
+    border-top-width:thin;
+    border-left-width:thin;
+    border-right-width:thin;
+    margin-top:30px;
+    
+}
+#Crystal4{
     border-style: hidden;
     border-radius: 8px 8px 8px 8px;
     border-width: thin rgb(3, 3, 3);
