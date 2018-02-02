@@ -21,6 +21,8 @@ $(document).ready(function(){
 
     var startGame= function(){
 
+        myScore = 0;
+        $("#yourScore").text(myScore);
         //assign random number to your target score
         var targetScore = Math.floor(Math.random() * ((120-19)+1) + 19);
         //assign random numbers to crystals
